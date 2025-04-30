@@ -1,12 +1,50 @@
-# React + Vite
+# Award-Winning Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **responsive portfolio website** built as a **clone of [zentry.com](https://zentry.com/)**, developed by following [JavaScript Mastery's tutorial](https://www.youtube.com/watch?v=zA9r5zTllx4). It features smooth animations, a modern UI, and responsive design optimized for all screen sizes.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tech Stack
 
-## Expanding the ESLint configuration
+- **React**
+- **GSAP**
+- **Tailwind CSS**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Dependencies
+
+Make sure you have [Node.js](https://nodejs.org/) installed on your system.
+
+---
+
+## 🚀 Getting Started
+
+Follow these instructions to set up and run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/rbslm/award-winning-website-clone
+cd award-winning-website
+```
+
+### 2. Install the dependencies
+```bash
+npm install
+```
+
+### 3. Run the projetc
+```bash
+npm run dev
+```
+Open your browser at http://localhost:5173 to view the project.
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/4a48f044-2dba-419b-9f39-8c999d0616c7" width="500"/>
+  <img src="https://github.com/user-attachments/assets/937b7d01-0b9c-48b1-a557-4d5cb3f4ef21" width="500"/>
+</p>
+
+## 🙏 Credits
+Design inspired by: Zentry <br />
+Tutorial by: JavaScript Mastery
