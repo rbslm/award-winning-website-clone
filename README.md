@@ -44,6 +44,6 @@ Open your browser at http://localhost:5173 to view the project.
   <br /><br /><br />
   <img src="https://github.com/user-attachments/assets/937b7d01-0b9c-48b1-a557-4d5cb3f4ef21"/>
   
-## 🙏 Credits
+## 💡 Credits
 Design inspired by: Zentry <br />
 Tutorial by: JavaScript Mastery
