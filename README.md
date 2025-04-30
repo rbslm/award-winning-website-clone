@@ -40,11 +40,10 @@ npm run dev
 ```
 Open your browser at http://localhost:5173 to view the project.
 
-<p float="left">
   <img src="https://github.com/user-attachments/assets/4a48f044-2dba-419b-9f39-8c999d0616c7"/>
+  <br /><br /><br />
   <img src="https://github.com/user-attachments/assets/937b7d01-0b9c-48b1-a557-4d5cb3f4ef21"/>
-</p>
-
+  
 ## 🙏 Credits
 Design inspired by: Zentry <br />
 Tutorial by: JavaScript Mastery
