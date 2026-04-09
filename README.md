@@ -34,7 +34,7 @@ cd award-winning-website
 npm install
 ```
 
-### 3. Run the projetc
+### 3. Run the project
 ```bash
 npm run dev
 ```
